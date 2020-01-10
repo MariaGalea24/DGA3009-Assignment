@@ -33,7 +33,7 @@
             height:auto;
             min-height:560px;
             padding:240px;
-            background:linear-gradient(to bottom,rgba(22,22,22,.3) 0,rgba(22,22,22,.7) 75%,#161616 100%),url(/website_mariagalea/images/aboutme.png);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover
+            background:linear-gradient(to bottom,rgba(22,22,22,.3) 0,rgba(22,22,22,.7) 75%,#161616 100%),url(/DGA3009-Assignment/website/website_mariagalea/images/aboutme.png);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover
 
             background-repeat:no-repeat;
             background-attachment:scroll;
@@ -83,7 +83,7 @@
       
       @media (pointer: coarse) and (hover: none) {
         header {
-          background: url(/website_mariagalea/images/1_29.JPG) black no-repeat center center scroll;
+          background: url(/DGA3009-Assignment/website/website_mariagalea/images/1_29.JPG) black no-repeat center center scroll;
         }
         header video {
           display: none;
@@ -110,7 +110,7 @@
 .about-section{
     padding-top:400px;
     background:linear-gradient(to bottom,#161616 0,rgba(22, 22, 22, 0.438) 30%,rgba(22, 22, 22, 0.616) 
-    100%), url(/website_mariagalea/images/aboutme.png)
+    100%), url(/DGA3009-Assignment/website/website_mariagalea/images/aboutme.png)
     
 }
 
